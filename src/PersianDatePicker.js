@@ -30,11 +30,11 @@ export default function PersianDatePicker() {
                     }
 
                     input.rc-time-picker-input {
-                        font-size: 15px;
+                        font-size: 13px;
                     }
 
                     button.title,button.title * {
-                        font-size: 15px !important;
+                        font-size: 13px !important;
                     }
                 `}
 			</style>
